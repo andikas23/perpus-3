@@ -17,7 +17,7 @@ const books = [
     "namaBuku": "Laskar Pelangi",
     "penerbit": "Bentang Pustaka",
     "tahunTerbit": 2005,
-    "penulis": "Andrea Hirata",
+    "penulis": "Andrea Hirata", 
     "stok": 12
   },
   {
